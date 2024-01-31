@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    align-items: center;
+    background: wheat;
+    nav{
+        a{
+            margin: 2em;
+            text-decoration: none;
+            color:white;
+            font-size: 1.5em;
+        }
+    }
+}
+main{
+    h2{
+        text-align: center;
+    }
+}
+
+footer{
+    background: wheat;
+    text-align: center;
+}
